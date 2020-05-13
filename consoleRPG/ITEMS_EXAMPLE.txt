@@ -1,0 +1,4 @@
+WEAPON:
+int id, int damage, int strenght, int dexterity, int intelligence, int luck, std::string name, int level, int buyPrice, int sellPrice, bool questItem, int rarity
+ARMOR:
+int id,int type, int defence,int strenght,int dexterity,int intelligence,int luck, std::string name , int level, int buyPrice, int sellPrice, bool questItem, int rarity

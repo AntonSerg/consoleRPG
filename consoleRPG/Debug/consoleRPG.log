@@ -1,0 +1,12 @@
+﻿  main.cpp
+  game.cpp
+e:\learning(wit)\c++\visual studio\consolerpg\consolerpg\consolerpg\game.cpp(158): warning C4018: '>': signed/unsigned mismatch
+e:\learning(wit)\c++\visual studio\consolerpg\consolerpg\consolerpg\game.cpp(179): warning C4018: '>': signed/unsigned mismatch
+  Quests.cpp
+  HumanT.cpp
+  Fight.cpp
+e:\learning(wit)\c++\visual studio\consolerpg\consolerpg\consolerpg\fight.cpp(70): warning C4018: '>': signed/unsigned mismatch
+e:\learning(wit)\c++\visual studio\consolerpg\consolerpg\consolerpg\fight.cpp(237): warning C4018: '<': signed/unsigned mismatch
+  Enemy.cpp
+  Generating Code...
+  consoleRPG.vcxproj -> E:\Learning(WIT)\C++\Visual Studio\consoleRPG\consoleRPG\Debug\consoleRPG.exe
